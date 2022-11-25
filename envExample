@@ -1,0 +1,5 @@
+NODE_ENVIRNMENT = DEVELOPMENT
+HOST = localhost
+PORT  = <Port number like : 3000, 8080 etc>
+DB_NAME = <Data Base Name >
+MONGO_URL = mongodb://localhost/
